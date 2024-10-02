@@ -32,7 +32,7 @@ El personaje al momento que se acerca 10 cm una persona comienza a mover los bra
 |Wokwi|La mas reciente|
 
 ## Dibujo del personaje
-Se la entrego el lunes profe es que se me quedo mi libreta en Dolores.
+## https://drive.google.com/drive/folders/1ORzDazpSRwWkhSlgQNw_F1_UwVAVUzsq
 
 # Link del personaje navideño:
 ## https://wokwi.com/projects/410159301587929089
